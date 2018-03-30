@@ -3,6 +3,7 @@ pkg/
 /config.yaml
 /.yardoc
 /Gemfile.local*
+/Gemfile.lock
 /coverage
 /.project
 /ext/packaging/
